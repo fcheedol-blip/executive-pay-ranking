@@ -1,0 +1,350 @@
+{
+  "증권사": [
+    {
+      "name": "미래에셋증권",
+      "corp_code": "00111722",
+      "stock_code": "006800",
+      "matched_name": "미래에셋증권"
+    },
+    {
+      "name": "삼성증권",
+      "corp_code": "00104856",
+      "stock_code": "016360",
+      "matched_name": "삼성증권"
+    },
+    {
+      "name": "NH투자증권",
+      "corp_code": "00120182",
+      "stock_code": "005940",
+      "matched_name": "NH투자증권"
+    },
+    {
+      "name": "한국투자증권",
+      "corp_code": "00160144",
+      "stock_code": "",
+      "matched_name": "한국투자증권"
+    },
+    {
+      "name": "케이비증권",
+      "corp_code": "00164876",
+      "stock_code": "003450",
+      "matched_name": "케이비증권"
+    },
+    {
+      "name": "신한투자증권",
+      "corp_code": "00138321",
+      "stock_code": "008670",
+      "matched_name": "신한투자증권"
+    },
+    {
+      "name": "하나증권",
+      "corp_code": "00113465",
+      "stock_code": "",
+      "matched_name": "하나증권"
+    },
+    {
+      "name": "메리츠증권",
+      "corp_code": "00163682",
+      "stock_code": "008560",
+      "matched_name": "메리츠증권"
+    },
+    {
+      "name": "키움증권",
+      "corp_code": "00296290",
+      "stock_code": "039490",
+      "matched_name": "키움증권"
+    },
+    {
+      "name": "대신증권",
+      "corp_code": "00110893",
+      "stock_code": "003540",
+      "matched_name": "대신증권"
+    },
+    {
+      "name": "유안타증권",
+      "corp_code": "00117601",
+      "stock_code": "003470",
+      "matched_name": "유안타증권"
+    },
+    {
+      "name": "유진증권",
+      "corp_code": "00131054",
+      "stock_code": "001200",
+      "matched_name": "유진증권"
+    },
+    {
+      "name": "SK증권",
+      "corp_code": "00131850",
+      "stock_code": "001510",
+      "matched_name": "SK증권"
+    },
+    {
+      "name": "부국증권",
+      "corp_code": "00123772",
+      "stock_code": "001270",
+      "matched_name": "부국증권"
+    },
+    {
+      "name": "DB증권",
+      "corp_code": "00115694",
+      "stock_code": "016610",
+      "matched_name": "DB증권"
+    },
+    {
+      "name": "현대차증권",
+      "corp_code": "00137997",
+      "stock_code": "001500",
+      "matched_name": "현대차증권"
+    },
+    {
+      "name": "한양증권",
+      "corp_code": "00162416",
+      "stock_code": "001750",
+      "matched_name": "한양증권"
+    },
+    {
+      "name": "다올투자증권",
+      "corp_code": "00156859",
+      "stock_code": "030210",
+      "matched_name": "다올투자증권"
+    },
+    {
+      "name": "아이비케이투자증권",
+      "corp_code": "00684918",
+      "stock_code": "",
+      "matched_name": "아이비케이투자증권"
+    },
+    {
+      "name": "BNK투자증권",
+      "corp_code": "00251400",
+      "stock_code": "",
+      "matched_name": "BNK투자증권"
+    },
+    {
+      "name": "아이엠증권",
+      "corp_code": "00148665",
+      "stock_code": "",
+      "matched_name": "아이엠증권"
+    },
+    {
+      "name": "한화투자증권",
+      "corp_code": "00148610",
+      "stock_code": "003530",
+      "matched_name": "한화투자증권"
+    },
+    {
+      "name": "교보증권",
+      "corp_code": "00113359",
+      "stock_code": "030610",
+      "matched_name": "교보증권"
+    },
+    {
+      "name": "LS증권",
+      "corp_code": "00330424",
+      "stock_code": "078020",
+      "matched_name": "LS증권"
+    },
+    {
+      "name": "코리아에셋투자증권",
+      "corp_code": "00304915",
+      "stock_code": "190650",
+      "matched_name": "코리아에셋투자증권"
+    },
+    {
+      "name": "상상인증권",
+      "corp_code": "00112059",
+      "stock_code": "001290",
+      "matched_name": "상상인증권"
+    }
+  ],
+  "자산운용사": [
+    {
+      "name": "미래에셋자산운용",
+      "corp_code": "00259776",
+      "stock_code": "",
+      "matched_name": "미래에셋자산운용"
+    },
+    {
+      "name": "삼성자산운용",
+      "corp_code": "00260453",
+      "stock_code": "",
+      "matched_name": "삼성자산운용"
+    },
+    {
+      "name": "KB자산운용",
+      "corp_code": "00104500",
+      "stock_code": "",
+      "matched_name": "KB자산운용"
+    },
+    {
+      "name": "한화자산운용",
+      "corp_code": "00243395",
+      "stock_code": "",
+      "matched_name": "한화자산운용"
+    },
+    {
+      "name": "신한자산운용",
+      "corp_code": "00243553",
+      "stock_code": "",
+      "matched_name": "신한자산운용"
+    },
+    {
+      "name": "엔에이치아문디자산운용",
+      "corp_code": "00453804",
+      "stock_code": "",
+      "matched_name": "엔에이치아문디자산운용"
+    },
+    {
+      "name": "키움투자자산운용",
+      "corp_code": "00120191",
+      "stock_code": "",
+      "matched_name": "키움투자자산운용"
+    },
+    {
+      "name": "한국투자신탁운용",
+      "corp_code": "00324548",
+      "stock_code": "",
+      "matched_name": "한국투자신탁운용"
+    },
+    {
+      "name": "한국투자밸류자산운용",
+      "corp_code": "00564030",
+      "stock_code": "",
+      "matched_name": "한국투자밸류자산운용"
+    },
+    {
+      "name": "마이다스에셋자산운용",
+      "corp_code": "00267526",
+      "stock_code": "",
+      "matched_name": "마이다스에셋자산운용"
+    },
+    {
+      "name": "브이아이자산운용",
+      "corp_code": "00260514",
+      "stock_code": "",
+      "matched_name": "브이아이자산운용"
+    },
+    {
+      "name": "트러스톤자산운용",
+      "corp_code": "00259794",
+      "stock_code": "",
+      "matched_name": "트러스톤자산운용"
+    },
+    {
+      "name": "이지스자산운용",
+      "corp_code": "00862905",
+      "stock_code": "",
+      "matched_name": "이지스자산운용"
+    },
+    {
+      "name": "타임폴리오자산운용",
+      "corp_code": "00787154",
+      "stock_code": "",
+      "matched_name": "타임폴리오자산운용"
+    }
+  ],
+  "은행": [
+    {
+      "name": "KB국민은행",
+      "corp_code": "00386937",
+      "stock_code": "060000",
+      "matched_name": "국민은행"
+    },
+    {
+      "name": "신한은행",
+      "corp_code": "00149293",
+      "stock_code": "000010",
+      "matched_name": "신한은행"
+    },
+    {
+      "name": "하나은행",
+      "corp_code": "00158909",
+      "stock_code": "004940",
+      "matched_name": "하나은행"
+    },
+    {
+      "name": "우리은행",
+      "corp_code": "00254045",
+      "stock_code": "000030",
+      "matched_name": "우리은행"
+    },
+    {
+      "name": "IBK기업은행",
+      "corp_code": "00149646",
+      "stock_code": "024110",
+      "matched_name": "기업은행"
+    },
+    {
+      "name": "NH농협은행",
+      "corp_code": "00908757",
+      "stock_code": "",
+      "matched_name": "농협은행"
+    },
+    {
+      "name": "한국스탠다드차타드은행",
+      "corp_code": "00148504",
+      "stock_code": "000110",
+      "matched_name": "한국스탠다드차타드은행"
+    },
+    {
+      "name": "카카오뱅크",
+      "corp_code": "01133217",
+      "stock_code": "323410",
+      "matched_name": "카카오뱅크"
+    },
+    {
+      "name": "케이뱅크",
+      "corp_code": "01203312",
+      "stock_code": "279570",
+      "matched_name": "케이뱅크"
+    },
+    {
+      "name": "토스뱅크",
+      "corp_code": "01529195",
+      "stock_code": "",
+      "matched_name": "토스뱅크"
+    },
+    {
+      "name": "부산은행",
+      "corp_code": "00124106",
+      "stock_code": "005280",
+      "matched_name": "부산은행"
+    },
+    {
+      "name": "아이엠뱅크",
+      "corp_code": "00109019",
+      "stock_code": "005270",
+      "matched_name": "아이엠뱅크"
+    },
+    {
+      "name": "경남은행",
+      "corp_code": "01030132",
+      "stock_code": "192520",
+      "matched_name": "경남은행"
+    },
+    {
+      "name": "광주은행",
+      "corp_code": "01028164",
+      "stock_code": "192530",
+      "matched_name": "광주은행"
+    },
+    {
+      "name": "전북은행",
+      "corp_code": "00147295",
+      "stock_code": "006350",
+      "matched_name": "전북은행"
+    },
+    {
+      "name": "제주은행",
+      "corp_code": "00148832",
+      "stock_code": "006220",
+      "matched_name": "제주은행"
+    },
+    {
+      "name": "수협은행",
+      "corp_code": "01190045",
+      "stock_code": "",
+      "matched_name": "수협은행"
+    }
+  ]
+}

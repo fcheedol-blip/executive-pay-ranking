@@ -1,0 +1,16 @@
+[
+  { "bsns_year": "2023", "reprt_code": "11013", "label": "2023.1Q" },
+  { "bsns_year": "2023", "reprt_code": "11012", "label": "2023.1H" },
+  { "bsns_year": "2023", "reprt_code": "11014", "label": "2023.3Q" },
+  { "bsns_year": "2023", "reprt_code": "11011", "label": "2023.연간" },
+  { "bsns_year": "2024", "reprt_code": "11013", "label": "2024.1Q" },
+  { "bsns_year": "2024", "reprt_code": "11012", "label": "2024.1H" },
+  { "bsns_year": "2024", "reprt_code": "11014", "label": "2024.3Q" },
+  { "bsns_year": "2024", "reprt_code": "11011", "label": "2024.연간" },
+  { "bsns_year": "2025", "reprt_code": "11013", "label": "2025.1Q" },
+  { "bsns_year": "2025", "reprt_code": "11012", "label": "2025.1H" },
+  { "bsns_year": "2025", "reprt_code": "11014", "label": "2025.3Q" },
+  { "bsns_year": "2025", "reprt_code": "11011", "label": "2025.연간" },
+  { "bsns_year": "2026", "reprt_code": "11013", "label": "2026.1Q" },
+  { "bsns_year": "2026", "reprt_code": "11012", "label": "2026.1H" }
+]
