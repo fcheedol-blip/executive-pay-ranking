@@ -1,0 +1,158 @@
+:root {
+  --bg: #0f1115;
+  --card: #171a21;
+  --border: #262b35;
+  --text: #e8eaed;
+  --muted: #9aa1ac;
+  --accent: #f2c14e;
+  --accent-2: #5b8def;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Malgun Gothic", sans-serif;
+  line-height: 1.5;
+}
+
+.hero {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 20px 12px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 1.6rem;
+  margin: 0 0 12px;
+}
+
+.hero .note {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin: 0;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+select {
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 0.9rem;
+}
+
+.sector-tabs {
+  display: flex;
+  gap: 6px;
+}
+
+.tab {
+  background: var(--card);
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.tab.active {
+  background: var(--accent-2);
+  color: #0f1115;
+  border-color: var(--accent-2);
+  font-weight: 600;
+}
+
+.summary {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
+
+.ranking {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 32px 1fr auto;
+  align-items: center;
+  gap: 12px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+
+.rank {
+  font-weight: 700;
+  color: var(--muted);
+  text-align: center;
+}
+
+.row:nth-child(1) .rank { color: var(--accent); }
+.row:nth-child(2) .rank { color: #cfd4dc; }
+.row:nth-child(3) .rank { color: #d9a066; }
+
+.who .name {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.who .meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.amount {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+  padding: 30px 20px 50px;
+}
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 40px 0;
+}
