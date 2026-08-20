@@ -18,7 +18,7 @@
         ]
       },
       {
-        "name": "김익래 ",
+        "name": "김익래",
         "position": "사내이사",
         "company": "키움증권",
         "sector": "증권사",
@@ -203,7 +203,7 @@
       },
       {
         "name": "최희문",
-        "position": "대표이사\n부회장",
+        "position": "대표이사부회장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 17.5,
@@ -443,8 +443,8 @@
         ]
       },
       {
-        "name": "이 어 룡",
-        "position": "회 장",
+        "name": "이어룡",
+        "position": "회장",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 12.4,
@@ -553,7 +553,7 @@
       },
       {
         "name": "박종복",
-        "position": "은행장 겸 대표이사",
+        "position": "은행장겸대표이사",
         "company": "한국스탠다드차타드은행",
         "sector": "은행",
         "amount_100m": 11.9,
@@ -637,8 +637,8 @@
         ]
       },
       {
-        "name": " 신재욱 ",
-        "position": " 상무 ",
+        "name": "신재욱",
+        "position": "상무",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 11.2,
@@ -697,8 +697,8 @@
         ]
       },
       {
-        "name": " 윤병운 ",
-        "position": " 부사장 ",
+        "name": "윤병운",
+        "position": "부사장",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 11,
@@ -709,7 +709,7 @@
         ]
       },
       {
-        "name": "양 홍 석",
+        "name": "양홍석",
         "position": "부회장",
         "company": "대신증권",
         "sector": "증권사",
@@ -758,8 +758,8 @@
         ]
       },
       {
-        "name": " 서재영 ",
-        "position": " 상무대우",
+        "name": "서재영",
+        "position": "상무대우",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 10.9,
@@ -887,18 +887,7 @@
         "stlm_dt": "2023-06-30",
         "rcept_no": "20230811001853",
         "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": " 정영채 ",
-        "position": " 대표이사",
-        "company": "NH투자증권",
-        "sector": "증권사",
-        "amount_100m": 9.5,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230811001853",
-        "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -942,7 +931,7 @@
       },
       {
         "name": "이윤호",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.4,
@@ -1028,7 +1017,7 @@
       },
       {
         "name": "하익준",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.2,
@@ -1124,7 +1113,7 @@
       },
       {
         "name": "정규돈",
-        "position": "업무집행책임자\n (퇴직임원)",
+        "position": "업무집행책임자(퇴직임원)",
         "company": "카카오뱅크",
         "sector": "은행",
         "amount_100m": 9.1,
@@ -1184,7 +1173,7 @@
       },
       {
         "name": "권혁창",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.9,
@@ -1232,7 +1221,7 @@
       },
       {
         "name": "신헌수",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.8,
@@ -1280,7 +1269,7 @@
       },
       {
         "name": "육근록",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.7,
@@ -1351,8 +1340,8 @@
         ]
       },
       {
-        "name": " 최승호 ",
-        "position": " 부사장 ",
+        "name": "최승호",
+        "position": "부사장",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 8.4,
@@ -1572,7 +1561,7 @@
         ]
       },
       {
-        "name": "박 정 숙",
+        "name": "박정숙",
         "position": "상담실장",
         "company": "대신증권",
         "sector": "증권사",
@@ -1670,7 +1659,7 @@
       },
       {
         "name": "박봉권",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 7.2,
@@ -1718,7 +1707,7 @@
       },
       {
         "name": "이석기",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 7.1,
@@ -2105,7 +2094,7 @@
       },
       {
         "name": "정상혁",
-        "position": "은행장 겸 대표이사",
+        "position": "은행장겸대표이사",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 5.3,
@@ -2138,238 +2127,6 @@
         "sources": [
           "직원 상위5인"
         ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "신한투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814001058",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "하나증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002057",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "부국증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230828000433",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "DB증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814001938",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "현대차증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002977",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이비케이투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002033",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "BNK투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814001069",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814000867",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "한화투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230811001813",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "코리아에셋투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-09-30",
-        "rcept_no": "20231114001448",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "상상인증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002567",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "이지스자산운용",
-        "sector": "자산운용사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230811001698",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "하나은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002970",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "기업은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20240430000581",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "케이뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814003153",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814001420",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "광주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002764",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "전북은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002775",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "제주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-06-30",
-        "rcept_no": "20230814002168",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
       }
     ]
   },
@@ -2381,7 +2138,7 @@
     "records": [
       {
         "name": "최현만",
-        "position": "회장\n(前 대표이사)",
+        "position": "회장(前대표이사)",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 105.6,
@@ -2394,7 +2151,7 @@
       },
       {
         "name": "장석훈",
-        "position": "前) 대표이사",
+        "position": "前)대표이사",
         "company": "삼성증권",
         "sector": "증권사",
         "amount_100m": 66.2,
@@ -2419,7 +2176,7 @@
       },
       {
         "name": "최희문",
-        "position": "前대표이사 부회장",
+        "position": "前대표이사부회장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 51.7,
@@ -2503,7 +2260,7 @@
         ]
       },
       {
-        "name": "양 홍 석",
+        "name": "양홍석",
         "position": "부회장",
         "company": "대신증권",
         "sector": "증권사",
@@ -2529,8 +2286,8 @@
         ]
       },
       {
-        "name": "이 어 룡",
-        "position": "회 장",
+        "name": "이어룡",
+        "position": "회장",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 32,
@@ -2541,8 +2298,8 @@
         ]
       },
       {
-        "name": " 최승호 ",
-        "position": " 부사장 ",
+        "name": "최승호",
+        "position": "부사장",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 31.6,
@@ -2590,8 +2347,8 @@
         ]
       },
       {
-        "name": " 김익래 ",
-        "position": " 사내이사 ",
+        "name": "김익래",
+        "position": "사내이사",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 29,
@@ -2664,7 +2421,7 @@
       },
       {
         "name": "정규돈",
-        "position": "업무집행책임자\n (퇴직임원)",
+        "position": "업무집행책임자(퇴직임원)",
         "company": "카카오뱅크",
         "sector": "은행",
         "amount_100m": 26.3,
@@ -2762,7 +2519,7 @@
       },
       {
         "name": "이만열",
-        "position": "사장\n(前 대표이사)",
+        "position": "사장(前대표이사)",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 22.9,
@@ -2906,8 +2663,8 @@
         ]
       },
       {
-        "name": " 권순호 ",
-        "position": " 전무 ",
+        "name": "권순호",
+        "position": "전무",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 18.3,
@@ -3088,7 +2845,7 @@
         ]
       },
       {
-        "name": "박 정 숙",
+        "name": "박정숙",
         "position": "상담실장",
         "company": "대신증권",
         "sector": "증권사",
@@ -3137,7 +2894,7 @@
       },
       {
         "name": "박종복",
-        "position": "은행장 겸 대표이사",
+        "position": "은행장겸대표이사",
         "company": "한국스탠다드차타드은행",
         "sector": "은행",
         "amount_100m": 15.2,
@@ -3357,25 +3114,14 @@
       },
       {
         "name": "정영채",
-        "position": " 대표이사 ",
+        "position": "대표이사",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 12.9,
         "stlm_dt": "2023-12-31",
         "rcept_no": "20240514000627",
         "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": " 정영채 ",
-        "position": " 대표이사 ",
-        "company": "NH투자증권",
-        "sector": "증권사",
-        "amount_100m": 12.9,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240514000627",
-        "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -3417,8 +3163,8 @@
         ]
       },
       {
-        "name": " 윤병운 ",
-        "position": " 부사장 ",
+        "name": "윤병운",
+        "position": "부사장",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 12.7,
@@ -3454,7 +3200,7 @@
         ]
       },
       {
-        "name": "오 익 근",
+        "name": "오익근",
         "position": "대표이사",
         "company": "대신증권",
         "sector": "증권사",
@@ -3515,8 +3261,8 @@
         ]
       },
       {
-        "name": " 신재욱 ",
-        "position": " 상무 ",
+        "name": "신재욱",
+        "position": "상무",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 12.4,
@@ -3953,7 +3699,7 @@
       },
       {
         "name": "정상혁",
-        "position": "은행장 겸대표이사",
+        "position": "은행장겸대표이사",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 10.3,
@@ -4050,7 +3796,7 @@
       },
       {
         "name": "박봉권",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 9.9,
@@ -4087,7 +3833,7 @@
       },
       {
         "name": "이석기",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 9.7,
@@ -4171,7 +3917,7 @@
       },
       {
         "name": "이윤호",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.5,
@@ -4256,7 +4002,7 @@
       },
       {
         "name": "하익준",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.2,
@@ -4303,8 +4049,8 @@
         ]
       },
       {
-        "name": "박 성 준",
-        "position": "전 무",
+        "name": "박성준",
+        "position": "전무",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 9,
@@ -4339,8 +4085,8 @@
         ]
       },
       {
-        "name": " 홍완기 ",
-        "position": " 이사대우",
+        "name": "홍완기",
+        "position": "이사대우",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 8.9,
@@ -4364,7 +4110,7 @@
       },
       {
         "name": "권혁창",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.9,
@@ -4424,7 +4170,7 @@
       },
       {
         "name": "신헌수",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.8,
@@ -4508,7 +4254,7 @@
       },
       {
         "name": "김미섭",
-        "position": "부회장\n(대표이사)",
+        "position": "부회장(대표이사)",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 8.2,
@@ -4579,7 +4325,7 @@
         ]
       },
       {
-        "name": "송 혁",
+        "name": "송혁",
         "position": "부사장",
         "company": "대신증권",
         "sector": "증권사",
@@ -4592,7 +4338,7 @@
       },
       {
         "name": "허선호",
-        "position": "부회장\n(대표이사)",
+        "position": "부회장(대표이사)",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 7.6,
@@ -4628,7 +4374,7 @@
       },
       {
         "name": "전경남",
-        "position": "사장\n(사내이사)",
+        "position": "사장(사내이사)",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 7.3,
@@ -4713,7 +4459,7 @@
       },
       {
         "name": "강성범",
-        "position": "부사장\n(前 사내이사)",
+        "position": "부사장(前사내이사)",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 7.1,
@@ -4772,8 +4518,8 @@
         ]
       },
       {
-        "name": " 이   현 ",
-        "position": " 부회장 ",
+        "name": "이현",
+        "position": "부회장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 7,
@@ -4882,8 +4628,8 @@
         ]
       },
       {
-        "name": " 황현순 ",
-        "position": " 대표이사 사장 ",
+        "name": "황현순",
+        "position": "대표이사사장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 6.5,
@@ -4980,8 +4726,8 @@
         ]
       },
       {
-        "name": " 정상협 ",
-        "position": " 이사대우",
+        "name": "정상협",
+        "position": "이사대우",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 5.7,
@@ -5107,91 +4853,6 @@
         "amount_100m": 5,
         "stlm_dt": "2023-03-31",
         "rcept_no": "20230622000218",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "하나증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240314001208",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이비케이투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240401003576",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240328000959",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "한화투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240312000990",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "상상인증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240321001758",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "기업은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240430000630",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "제주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2023-12-31",
-        "rcept_no": "20240516000858",
         "sources": [
           "임원(이사·감사)"
         ]
@@ -5473,7 +5134,7 @@
         ]
       },
       {
-        "name": "칼 코쉬니스키",
+        "name": "칼코쉬니스키",
         "position": "前전무",
         "company": "메리츠증권",
         "sector": "증권사",
@@ -5693,7 +5354,7 @@
       },
       {
         "name": "장원재",
-        "position": "대표이사 사장",
+        "position": "대표이사사장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 13.4,
@@ -5705,7 +5366,7 @@
       },
       {
         "name": "박종복",
-        "position": "은행장 겸 대표이사",
+        "position": "은행장겸대표이사",
         "company": "한국스탠다드차타드은행",
         "sector": "은행",
         "amount_100m": 12.8,
@@ -5753,8 +5414,8 @@
         ]
       },
       {
-        "name": "이 어 룡",
-        "position": "회 장",
+        "name": "이어룡",
+        "position": "회장",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 12.4,
@@ -5863,7 +5524,7 @@
         ]
       },
       {
-        "name": "양 홍 석",
+        "name": "양홍석",
         "position": "부회장",
         "company": "대신증권",
         "sector": "증권사",
@@ -6323,7 +5984,7 @@
       },
       {
         "name": "김병헌",
-        "position": "前) 이사보",
+        "position": "前)이사보",
         "company": "부국증권",
         "sector": "증권사",
         "amount_100m": 9,
@@ -6395,7 +6056,7 @@
       },
       {
         "name": "진재범",
-        "position": "퇴직직원\n\n (지점장\n)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.6,
@@ -6431,7 +6092,7 @@
       },
       {
         "name": "조병학",
-        "position": "퇴직직원\n\n (커뮤니티장\n)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.5,
@@ -6479,7 +6140,7 @@
       },
       {
         "name": "한상훈",
-        "position": "퇴직직원\n\n (커뮤니티장\n)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.3,
@@ -6491,7 +6152,7 @@
       },
       {
         "name": "전용섭",
-        "position": "퇴직직원\n\n (커뮤니티장\n)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.3,
@@ -6576,7 +6237,7 @@
       },
       {
         "name": "정상혁",
-        "position": "은행장 겸대표이사",
+        "position": "은행장겸대표이사",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.2,
@@ -6662,7 +6323,7 @@
       },
       {
         "name": "임복락",
-        "position": "퇴직직원\n(지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "광주은행",
         "sector": "은행",
         "amount_100m": 7.8,
@@ -6710,7 +6371,7 @@
       },
       {
         "name": "김승백",
-        "position": "퇴직직원\n(지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "광주은행",
         "sector": "은행",
         "amount_100m": 7.5,
@@ -6759,7 +6420,7 @@
       },
       {
         "name": "오경재",
-        "position": "퇴직직원\n(센터장)",
+        "position": "퇴직직원(센터장)",
         "company": "광주은행",
         "sector": "은행",
         "amount_100m": 7.3,
@@ -6771,7 +6432,7 @@
       },
       {
         "name": "전철민",
-        "position": "퇴직직원\n(부장)",
+        "position": "퇴직직원(부장)",
         "company": "광주은행",
         "sector": "은행",
         "amount_100m": 7.2,
@@ -6819,7 +6480,7 @@
       },
       {
         "name": "문백호",
-        "position": "퇴직직원\n(센터장)",
+        "position": "퇴직직원(센터장)",
         "company": "광주은행",
         "sector": "은행",
         "amount_100m": 7,
@@ -6952,7 +6613,7 @@
       },
       {
         "name": "박봉권",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 6.5,
@@ -6964,7 +6625,7 @@
       },
       {
         "name": "이석기",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 6.5,
@@ -7131,7 +6792,7 @@
         ]
       },
       {
-        "name": "박 용 재",
+        "name": "박용재",
         "position": "상담실장",
         "company": "대신증권",
         "sector": "증권사",
@@ -7216,7 +6877,7 @@
       },
       {
         "name": "김영기",
-        "position": "상임\n감사\n위원",
+        "position": "상임감사위원",
         "company": "국민은행",
         "sector": "은행",
         "amount_100m": 5.3,
@@ -7251,7 +6912,7 @@
         ]
       },
       {
-        "name": "오 익 근",
+        "name": "오익근",
         "position": "대표이사",
         "company": "대신증권",
         "sector": "증권사",
@@ -7296,254 +6957,6 @@
         "stlm_dt": "2024-06-30",
         "rcept_no": "20240814001303",
         "sources": [
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "삼성증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003446",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "신한투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20250326000513",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "하나증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814002710",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "부국증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003368",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "DB증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814001795",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "현대차증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814002913",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이비케이투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003315",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814000519",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "한화투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003427",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "코리아에셋투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-09-30",
-        "rcept_no": "20241114001939",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "상상인증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814002879",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "미래에셋자산운용",
-        "sector": "자산운용사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003534",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "이지스자산운용",
-        "sector": "자산운용사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814002113",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "기업은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240930000206",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "케이뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003812",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "부산은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814004318",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240813001571",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "경남은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814002421",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "전북은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814004542",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "제주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-06-30",
-        "rcept_no": "20240814003245",
-        "sources": [
-          "임원(이사·감사)",
           "직원 상위5인"
         ]
       }
@@ -7628,8 +7041,8 @@
         ]
       },
       {
-        "name": " 정영채",
-        "position": " 前)대표이사 ",
+        "name": "정영채",
+        "position": "前)대표이사",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 59.5,
@@ -7665,7 +7078,7 @@
         ]
       },
       {
-        "name": "칼 코쉬니스키",
+        "name": "칼코쉬니스키",
         "position": "前전무",
         "company": "메리츠증권",
         "sector": "증권사",
@@ -7713,7 +7126,7 @@
         ]
       },
       {
-        "name": "양 홍 석",
+        "name": "양홍석",
         "position": "부회장",
         "company": "대신증권",
         "sector": "증권사",
@@ -7750,8 +7163,8 @@
         ]
       },
       {
-        "name": "이 어 룡",
-        "position": "회 장",
+        "name": "이어룡",
+        "position": "회장",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 32.3,
@@ -8007,7 +7420,7 @@
       },
       {
         "name": "장원재",
-        "position": "대표이사 사장",
+        "position": "대표이사사장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 19.4,
@@ -8031,7 +7444,7 @@
       },
       {
         "name": "곽석태",
-        "position": "영업 상무대우",
+        "position": "영업상무대우",
         "company": "아이엠증권",
         "sector": "증권사",
         "amount_100m": 18.9,
@@ -8078,8 +7491,8 @@
         ]
       },
       {
-        "name": " 송원용",
-        "position": " 이사대우 ",
+        "name": "송원용",
+        "position": "이사대우",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 17.6,
@@ -8102,8 +7515,8 @@
         ]
       },
       {
-        "name": " 윤병운",
-        "position": " 現)대표이사",
+        "name": "윤병운",
+        "position": "現)대표이사",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 17.3,
@@ -8176,7 +7589,7 @@
       },
       {
         "name": "박종복",
-        "position": "은행장 겸 대표이사",
+        "position": "은행장겸대표이사",
         "company": "한국스탠다드차타드은행",
         "sector": "은행",
         "amount_100m": 16.6,
@@ -8237,8 +7650,8 @@
         ]
       },
       {
-        "name": " 송창하",
-        "position": " 상무 ",
+        "name": "송창하",
+        "position": "상무",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 16,
@@ -8287,7 +7700,7 @@
       },
       {
         "name": "홍정완",
-        "position": "前) 이사보",
+        "position": "前)이사보",
         "company": "부국증권",
         "sector": "증권사",
         "amount_100m": 15.8,
@@ -8408,8 +7821,8 @@
         ]
       },
       {
-        "name": " 심기필",
-        "position": " 전무 ",
+        "name": "심기필",
+        "position": "전무",
         "company": "NH투자증권",
         "sector": "증권사",
         "amount_100m": 14.5,
@@ -8432,8 +7845,8 @@
         ]
       },
       {
-        "name": " 황현순 ",
-        "position": "前 대표이사 사장 ",
+        "name": "황현순",
+        "position": "前대표이사사장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 14.1,
@@ -8641,8 +8054,8 @@
         ]
       },
       {
-        "name": " 김대욱 ",
-        "position": " 상무보 ",
+        "name": "김대욱",
+        "position": "상무보",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 12.8,
@@ -8713,7 +8126,7 @@
         ]
       },
       {
-        "name": "오 익 근",
+        "name": "오익근",
         "position": "대표이사",
         "company": "대신증권",
         "sector": "증권사",
@@ -8727,7 +8140,7 @@
       },
       {
         "name": "정상혁",
-        "position": "은행장 겸대표이사",
+        "position": "은행장겸대표이사",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 12.4,
@@ -8948,8 +8361,8 @@
         ]
       },
       {
-        "name": " 홍완기 ",
-        "position": " 상무보 ",
+        "name": "홍완기",
+        "position": "상무보",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 10.9,
@@ -9274,7 +8687,7 @@
         ]
       },
       {
-        "name": "박 용 재",
+        "name": "박용재",
         "position": "상담실장",
         "company": "대신증권",
         "sector": "증권사",
@@ -9359,8 +8772,8 @@
         ]
       },
       {
-        "name": " 박동진 ",
-        "position": " 부장 ",
+        "name": "박동진",
+        "position": "부장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 9.5,
@@ -9408,7 +8821,7 @@
       },
       {
         "name": "이대우",
-        "position": "퇴직직원\n (센터장)",
+        "position": "퇴직직원(센터장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.3,
@@ -9419,8 +8832,8 @@
         ]
       },
       {
-        "name": " 박연채 ",
-        "position": "前 부사장 ",
+        "name": "박연채",
+        "position": "前부사장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 9.2,
@@ -9518,7 +8931,7 @@
       },
       {
         "name": "박봉권",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 8.7,
@@ -9530,7 +8943,7 @@
       },
       {
         "name": "이석기",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 8.7,
@@ -9590,7 +9003,7 @@
       },
       {
         "name": "진재범",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.6,
@@ -9626,7 +9039,7 @@
       },
       {
         "name": "조병학",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.5,
@@ -9700,7 +9113,7 @@
       },
       {
         "name": "한상훈",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 8.3,
@@ -9711,7 +9124,7 @@
         ]
       },
       {
-        "name": "송    혁",
+        "name": "송혁",
         "position": "부사장",
         "company": "대신증권",
         "sector": "증권사",
@@ -9719,18 +9132,7 @@
         "stlm_dt": "2024-12-31",
         "rcept_no": "20250813001479",
         "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "송 혁",
-        "position": "부사장",
-        "company": "대신증권",
-        "sector": "증권사",
-        "amount_100m": 8.2,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250813001479",
-        "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -9772,7 +9174,7 @@
       },
       {
         "name": "오영규",
-        "position": "본부장\n(퇴직직원)",
+        "position": "본부장(퇴직직원)",
         "company": "제주은행",
         "sector": "은행",
         "amount_100m": 8.1,
@@ -9784,7 +9186,7 @@
       },
       {
         "name": "김영직",
-        "position": "본부장\n(퇴직직원)",
+        "position": "본부장(퇴직직원)",
         "company": "제주은행",
         "sector": "은행",
         "amount_100m": 8.1,
@@ -9808,7 +9210,7 @@
       },
       {
         "name": "부정만",
-        "position": "부장\n(퇴직직원)",
+        "position": "부장(퇴직직원)",
         "company": "제주은행",
         "sector": "은행",
         "amount_100m": 8,
@@ -9869,7 +9271,7 @@
       },
       {
         "name": "구경모",
-        "position": "前 상임감사위원",
+        "position": "前상임감사위원",
         "company": "아이엠뱅크",
         "sector": "은행",
         "amount_100m": 7.7,
@@ -9905,7 +9307,7 @@
       },
       {
         "name": "윤승용",
-        "position": "지점장\n(퇴직직원)",
+        "position": "지점장(퇴직직원)",
         "company": "제주은행",
         "sector": "은행",
         "amount_100m": 7.5,
@@ -9989,7 +9391,7 @@
       },
       {
         "name": "윤기찬",
-        "position": "지점장\n(퇴직직원)",
+        "position": "지점장(퇴직직원)",
         "company": "제주은행",
         "sector": "은행",
         "amount_100m": 7.2,
@@ -10085,7 +9487,7 @@
       },
       {
         "name": "이철",
-        "position": "업무집행책임자\n (퇴직임원)",
+        "position": "업무집행책임자(퇴직임원)",
         "company": "카카오뱅크",
         "sector": "은행",
         "amount_100m": 6.8,
@@ -10121,8 +9523,8 @@
         ]
       },
       {
-        "name": " 엄주성 ",
-        "position": " 대표이사 사장 ",
+        "name": "엄주성",
+        "position": "대표이사사장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 6.7,
@@ -10278,7 +9680,7 @@
       },
       {
         "name": "허재영",
-        "position": "업무집행책임자\n (퇴직임원)",
+        "position": "업무집행책임자(퇴직임원)",
         "company": "카카오뱅크",
         "sector": "은행",
         "amount_100m": 5.3,
@@ -10296,92 +9698,6 @@
         "amount_100m": 5.2,
         "stlm_dt": "2024-12-31",
         "rcept_no": "20250318000709",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "하나증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250515000733",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이비케이투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250331003294",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250325000694",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "상상인증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250318001083",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "기업은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250318001325",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "케이뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250331000930",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "제주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2024-12-31",
-        "rcept_no": "20250317000569",
         "sources": [
           "임원(이사·감사)"
         ]
@@ -10421,7 +9737,7 @@
       },
       {
         "name": "김철은",
-        "position": "前 부사장",
+        "position": "前부사장",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 40.3,
@@ -10639,7 +9955,7 @@
       },
       {
         "name": "김형석",
-        "position": "前 상무",
+        "position": "前상무",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 19,
@@ -10722,18 +10038,6 @@
         ]
       },
       {
-        "name": " 윤병운 ",
-        "position": " 대표이사",
-        "company": "NH투자증권",
-        "sector": "증권사",
-        "amount_100m": 16.7,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814002305",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
         "name": "윤병운",
         "position": "대표이사",
         "company": "NH투자증권",
@@ -10742,6 +10046,7 @@
         "stlm_dt": "2025-06-30",
         "rcept_no": "20250814002305",
         "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -10795,7 +10100,7 @@
       },
       {
         "name": "곽석태",
-        "position": "영업 상무대우",
+        "position": "영업상무대우",
         "company": "아이엠증권",
         "sector": "증권사",
         "amount_100m": 15.9,
@@ -10807,7 +10112,7 @@
       },
       {
         "name": "최현",
-        "position": "前 전무",
+        "position": "前전무",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 15.7,
@@ -10855,7 +10160,7 @@
       },
       {
         "name": "장원재",
-        "position": "대표이사 사장",
+        "position": "대표이사사장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 14.9,
@@ -10915,7 +10220,7 @@
       },
       {
         "name": "이광희",
-        "position": "은행장 겸 대표이사",
+        "position": "은행장겸대표이사",
         "company": "한국스탠다드차타드은행",
         "sector": "은행",
         "amount_100m": 14.4,
@@ -10940,8 +10245,8 @@
         ]
       },
       {
-        "name": " 박동진 ",
-        "position": " 부장 ",
+        "name": "박동진",
+        "position": "부장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 14,
@@ -11133,8 +10438,8 @@
         ]
       },
       {
-        "name": " 홍완기 ",
-        "position": " 상무 ",
+        "name": "홍완기",
+        "position": "상무",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 12.1,
@@ -11170,7 +10475,7 @@
       },
       {
         "name": "이어룡",
-        "position": "회 장",
+        "position": "회장",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 11.9,
@@ -11218,7 +10523,7 @@
       },
       {
         "name": "정상혁",
-        "position": "은행장 겸대표이사",
+        "position": "은행장겸대표이사",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 11.5,
@@ -11255,7 +10560,7 @@
       },
       {
         "name": "장태융",
-        "position": "관리자 (부점장)",
+        "position": "관리자(부점장)",
         "company": "하나은행",
         "sector": "은행",
         "amount_100m": 11.2,
@@ -11278,7 +10583,7 @@
         ]
       },
       {
-        "name": " 정진우",
+        "name": "정진우",
         "position": "고문",
         "company": "유안타증권",
         "sector": "증권사",
@@ -11327,7 +10632,7 @@
       },
       {
         "name": "김광휘",
-        "position": "관리자 (부점장)",
+        "position": "관리자(부점장)",
         "company": "하나은행",
         "sector": "은행",
         "amount_100m": 10.8,
@@ -11339,7 +10644,7 @@
       },
       {
         "name": "김상균",
-        "position": "前 부장",
+        "position": "前부장",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 10.7,
@@ -11363,7 +10668,7 @@
       },
       {
         "name": "김완호",
-        "position": "관리자 (부점장)",
+        "position": "관리자(부점장)",
         "company": "하나은행",
         "sector": "은행",
         "amount_100m": 10.7,
@@ -11387,7 +10692,7 @@
       },
       {
         "name": "박진홍",
-        "position": "관리자 (부점장)",
+        "position": "관리자(부점장)",
         "company": "하나은행",
         "sector": "은행",
         "amount_100m": 10.6,
@@ -11447,7 +10752,7 @@
       },
       {
         "name": "심우창",
-        "position": "관리자 (부점장)",
+        "position": "관리자(부점장)",
         "company": "하나은행",
         "sector": "은행",
         "amount_100m": 10.3,
@@ -11554,18 +10859,6 @@
         ]
       },
       {
-        "name": "양 홍 석",
-        "position": "부회장",
-        "company": "대신증권",
-        "sector": "증권사",
-        "amount_100m": 9.8,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250813001396",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
         "name": "양홍석",
         "position": "부회장",
         "company": "대신증권",
@@ -11574,6 +10867,7 @@
         "stlm_dt": "2025-06-30",
         "rcept_no": "20250813001396",
         "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -11639,8 +10933,8 @@
         ]
       },
       {
-        "name": " 김대욱 ",
-        "position": " 상무 ",
+        "name": "김대욱",
+        "position": "상무",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 9.6,
@@ -11701,7 +10995,7 @@
       },
       {
         "name": "최인경",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.3,
@@ -11725,7 +11019,7 @@
       },
       {
         "name": "최하영",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.2,
@@ -11749,7 +11043,7 @@
       },
       {
         "name": "이승국",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.1,
@@ -11761,7 +11055,7 @@
       },
       {
         "name": "류지원",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.1,
@@ -11846,7 +11140,7 @@
       },
       {
         "name": "박봉권",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 8.9,
@@ -11858,7 +11152,7 @@
       },
       {
         "name": "이석기",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 8.8,
@@ -11930,8 +11224,8 @@
         ]
       },
       {
-        "name": " 장미루 ",
-        "position": " 이사 ",
+        "name": "장미루",
+        "position": "이사",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 8.6,
@@ -12002,8 +11296,8 @@
         ]
       },
       {
-        "name": " 이방수 ",
-        "position": " 부장 ",
+        "name": "이방수",
+        "position": "부장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 8.2,
@@ -12496,8 +11790,8 @@
         ]
       },
       {
-        "name": " 엄주성 ",
-        "position": " 대표이사 사장 ",
+        "name": "엄주성",
+        "position": "대표이사사장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 5,
@@ -12505,241 +11799,6 @@
         "rcept_no": "20250811000522",
         "sources": [
           "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "신한투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814002935",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "하나증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20251114000693",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "SK증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003171",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이비케이투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003056",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "BNK투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814002009",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814001166",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "한화투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250813001276",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "LS증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250813001120",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "코리아에셋투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-09-30",
-        "rcept_no": "20251114001556",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "상상인증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814004124",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "미래에셋자산운용",
-        "sector": "자산운용사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003080",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "이지스자산운용",
-        "sector": "자산운용사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20251024000213",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "국민은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814004269",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "우리은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003989",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "기업은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814002963",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "케이뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814002939",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "부산은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003504",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠뱅크",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003540",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "제주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-06-30",
-        "rcept_no": "20250814003768",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
         ]
       }
     ]
@@ -12800,7 +11859,7 @@
         ]
       },
       {
-        "name": "양 홍 석",
+        "name": "양홍석",
         "position": "부회장",
         "company": "대신증권",
         "sector": "증권사",
@@ -12826,8 +11885,8 @@
         ]
       },
       {
-        "name": "이 어 룡",
-        "position": "회  장",
+        "name": "이어룡",
+        "position": "회장",
         "company": "대신증권",
         "sector": "증권사",
         "amount_100m": 45.4,
@@ -12851,7 +11910,7 @@
       },
       {
         "name": "주용국",
-        "position": "前 부사장",
+        "position": "前부사장",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 41.1,
@@ -12875,7 +11934,7 @@
       },
       {
         "name": "김철은",
-        "position": "前 부사장",
+        "position": "前부사장",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 40.3,
@@ -13033,7 +12092,7 @@
       },
       {
         "name": "곽석태",
-        "position": "영업 상무대우",
+        "position": "영업상무대우",
         "company": "아이엠증권",
         "sector": "증권사",
         "amount_100m": 31.9,
@@ -13190,8 +12249,8 @@
         ]
       },
       {
-        "name": " 박동진 ",
-        "position": " 부장 ",
+        "name": "박동진",
+        "position": "부장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 21.9,
@@ -13227,7 +12286,7 @@
       },
       {
         "name": "장원재",
-        "position": "대표이사 사장",
+        "position": "대표이사사장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 21,
@@ -13275,18 +12334,6 @@
         ]
       },
       {
-        "name": " 윤병운",
-        "position": " 대표이사",
-        "company": "NH투자증권",
-        "sector": "증권사",
-        "amount_100m": 19.3,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260313000771",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
         "name": "윤병운",
         "position": "대표이사",
         "company": "NH투자증권",
@@ -13295,6 +12342,7 @@
         "stlm_dt": "2025-12-31",
         "rcept_no": "20260313000771",
         "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -13324,7 +12372,7 @@
       },
       {
         "name": "김형석",
-        "position": "前 상무",
+        "position": "前상무",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 19,
@@ -13336,7 +12384,7 @@
       },
       {
         "name": "이광희",
-        "position": "은행장 겸 \n대표이사",
+        "position": "은행장겸대표이사",
         "company": "한국스탠다드차타드은행",
         "sector": "은행",
         "amount_100m": 18.9,
@@ -13360,8 +12408,8 @@
         ]
       },
       {
-        "name": " 홍완기 ",
-        "position": " 상무 ",
+        "name": "홍완기",
+        "position": "상무",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 18.3,
@@ -13579,7 +12627,7 @@
         ]
       },
       {
-        "name": "오 익 근",
+        "name": "오익근",
         "position": "대표이사",
         "company": "대신증권",
         "sector": "증권사",
@@ -13654,7 +12702,7 @@
       },
       {
         "name": "최현",
-        "position": "前 전무",
+        "position": "前전무",
         "company": "유진증권",
         "sector": "증권사",
         "amount_100m": 15.7,
@@ -13666,7 +12714,7 @@
       },
       {
         "name": "정상혁",
-        "position": "은행장 겸대표이사",
+        "position": "은행장겸대표이사",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 15.7,
@@ -13727,7 +12775,7 @@
       },
       {
         "name": "김동춘",
-        "position": "前 상무",
+        "position": "前상무",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 14.9,
@@ -13837,7 +12885,7 @@
       },
       {
         "name": "신희철",
-        "position": "업무집행책임자\n(퇴직임원)",
+        "position": "업무집행책임자(퇴직임원)",
         "company": "카카오뱅크",
         "sector": "은행",
         "amount_100m": 14.1,
@@ -13970,8 +13018,8 @@
         ]
       },
       {
-        "name": " 김대욱 ",
-        "position": " 상무 ",
+        "name": "김대욱",
+        "position": "상무",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 13.1,
@@ -14032,7 +13080,7 @@
       },
       {
         "name": "안인성",
-        "position": "前 부사장",
+        "position": "前부사장",
         "company": "미래에셋증권",
         "sector": "증권사",
         "amount_100m": 12.6,
@@ -14079,8 +13127,8 @@
         ]
       },
       {
-        "name": " 장미루 ",
-        "position": " 이사 ",
+        "name": "장미루",
+        "position": "이사",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 12.4,
@@ -14188,8 +13236,8 @@
         ]
       },
       {
-        "name": " 이정호 ",
-        "position": " 차장 ",
+        "name": "이정호",
+        "position": "차장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 11.9,
@@ -14248,7 +13296,7 @@
         ]
       },
       {
-        "name": "송    혁",
+        "name": "송혁",
         "position": "사장",
         "company": "대신증권",
         "sector": "증권사",
@@ -14256,18 +13304,7 @@
         "stlm_dt": "2025-12-31",
         "rcept_no": "20260319000718",
         "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "송 혁",
-        "position": "사  장",
-        "company": "대신증권",
-        "sector": "증권사",
-        "amount_100m": 11.6,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260319000718",
-        "sources": [
+          "임원(이사·감사)",
           "직원 상위5인"
         ]
       },
@@ -14285,7 +13322,7 @@
       },
       {
         "name": "박봉권",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 11.6,
@@ -14310,7 +13347,7 @@
       },
       {
         "name": "이석기",
-        "position": " 대표이사",
+        "position": "대표이사",
         "company": "교보증권",
         "sector": "증권사",
         "amount_100m": 11.5,
@@ -14382,7 +13419,7 @@
         ]
       },
       {
-        "name": "김 범 철",
+        "name": "김범철",
         "position": "부사장",
         "company": "대신증권",
         "sector": "증권사",
@@ -14624,7 +13661,7 @@
         ]
       },
       {
-        "name": "김 창 윤",
+        "name": "김창윤",
         "position": "부장대우",
         "company": "우리은행",
         "sector": "은행",
@@ -14697,7 +13734,7 @@
       },
       {
         "name": "박대하",
-        "position": "현 부행장",
+        "position": "현부행장",
         "company": "광주은행",
         "sector": "은행",
         "amount_100m": 9.7,
@@ -14732,7 +13769,7 @@
         ]
       },
       {
-        "name": "서 성 웅",
+        "name": "서성웅",
         "position": "부장대우",
         "company": "우리은행",
         "sector": "은행",
@@ -14757,7 +13794,7 @@
       },
       {
         "name": "유건준",
-        "position": "퇴직직원\n (부장심사역)",
+        "position": "퇴직직원(부장심사역)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.4,
@@ -14793,7 +13830,7 @@
       },
       {
         "name": "최인경",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.3,
@@ -14817,7 +13854,7 @@
       },
       {
         "name": "최하영",
-        "position": "퇴직직원\n (커뮤니티장)",
+        "position": "퇴직직원(커뮤니티장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.2,
@@ -14829,7 +13866,7 @@
       },
       {
         "name": "한정호",
-        "position": "글로벌사업부 대표",
+        "position": "글로벌사업부대표",
         "company": "SK증권",
         "sector": "증권사",
         "amount_100m": 9.1,
@@ -14877,7 +13914,7 @@
       },
       {
         "name": "이승국",
-        "position": "퇴직직원\n (지점장)",
+        "position": "퇴직직원(지점장)",
         "company": "신한은행",
         "sector": "은행",
         "amount_100m": 9.1,
@@ -14900,7 +13937,7 @@
         ]
       },
       {
-        "name": "유 기 덕",
+        "name": "유기덕",
         "position": "부장대우",
         "company": "우리은행",
         "sector": "은행",
@@ -14912,7 +13949,7 @@
         ]
       },
       {
-        "name": "정 성 욱",
+        "name": "정성욱",
         "position": "부장대우",
         "company": "우리은행",
         "sector": "은행",
@@ -14936,7 +13973,7 @@
         ]
       },
       {
-        "name": "임 현 정",
+        "name": "임현정",
         "position": "부장대우",
         "company": "우리은행",
         "sector": "은행",
@@ -15020,7 +14057,7 @@
         ]
       },
       {
-        "name": "정 진 완",
+        "name": "정진완",
         "position": "은행장",
         "company": "우리은행",
         "sector": "은행",
@@ -15056,8 +14093,8 @@
         ]
       },
       {
-        "name": " 이   현 ",
-        "position": " 부회장 ",
+        "name": "이현",
+        "position": "부회장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 8.3,
@@ -15153,8 +14190,8 @@
         ]
       },
       {
-        "name": " 엄주성 ",
-        "position": " 대표이사 사장 ",
+        "name": "엄주성",
+        "position": "대표이사사장",
         "company": "키움증권",
         "sector": "증권사",
         "amount_100m": 8,
@@ -15310,7 +14347,7 @@
       },
       {
         "name": "이강원",
-        "position": "업무집행책임자\n(퇴직임원)",
+        "position": "업무집행책임자(퇴직임원)",
         "company": "카카오뱅크",
         "sector": "은행",
         "amount_100m": 6.9,
@@ -15418,7 +14455,7 @@
       },
       {
         "name": "김종민",
-        "position": "대표이사 사장",
+        "position": "대표이사사장",
         "company": "메리츠증권",
         "sector": "증권사",
         "amount_100m": 5.9,
@@ -15535,92 +14572,6 @@
         "rcept_no": "20260325000632",
         "sources": [
           "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이비케이투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260331003956",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "BNK투자증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260317000647",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "아이엠증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260325000480",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "LS증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260316000923",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "상상인증권",
-        "sector": "증권사",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260630000637",
-        "sources": [
-          "임원(이사·감사)"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "기업은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260318000761",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
-        ]
-      },
-      {
-        "name": "-",
-        "position": "-",
-        "company": "제주은행",
-        "sector": "은행",
-        "amount_100m": 0,
-        "stlm_dt": "2025-12-31",
-        "rcept_no": "20260316000708",
-        "sources": [
-          "임원(이사·감사)",
-          "직원 상위5인"
         ]
       }
     ]
