@@ -4,3 +4,9 @@ data/fetch_log.txt
 data/fetch_capital_log.txt
 node_modules/
 .netlify/
+data/.apikey
+data/doctest/
+data/fetch_rawdoc_log.txt
+data/fetch_rawdoc_log2.txt
+data/fetch_rawdoc_log3.txt
+data/fetch_rawdoc_log4.txt
