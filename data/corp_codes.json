@@ -346,5 +346,115 @@
       "stock_code": "",
       "matched_name": "수협은행"
     }
+  ],
+  "캐피탈사": [
+    {
+      "name": "현대캐피탈",
+      "corp_code": "00208514",
+      "stock_code": "",
+      "matched_name": "현대캐피탈"
+    },
+    {
+      "name": "신한캐피탈",
+      "corp_code": "00137456",
+      "stock_code": "",
+      "matched_name": "신한캐피탈"
+    },
+    {
+      "name": "케이비캐피탈",
+      "corp_code": "00161408",
+      "stock_code": "021960",
+      "matched_name": "케이비캐피탈"
+    },
+    {
+      "name": "하나캐피탈",
+      "corp_code": "00152932",
+      "stock_code": "",
+      "matched_name": "하나캐피탈"
+    },
+    {
+      "name": "우리금융캐피탈",
+      "corp_code": "00209443",
+      "stock_code": "033660",
+      "matched_name": "우리금융캐피탈"
+    },
+    {
+      "name": "아이비케이캐피탈",
+      "corp_code": "00275251",
+      "stock_code": "",
+      "matched_name": "아이비케이캐피탈"
+    },
+    {
+      "name": "롯데캐피탈",
+      "corp_code": "00222295",
+      "stock_code": "",
+      "matched_name": "롯데캐피탈"
+    },
+    {
+      "name": "BNK캐피탈",
+      "corp_code": "00844936",
+      "stock_code": "",
+      "matched_name": "BNK캐피탈"
+    },
+    {
+      "name": "아이엠캐피탈",
+      "corp_code": "00796471",
+      "stock_code": "",
+      "matched_name": "아이엠캐피탈"
+    },
+    {
+      "name": "메리츠캐피탈",
+      "corp_code": "00933504",
+      "stock_code": "",
+      "matched_name": "메리츠캐피탈"
+    },
+    {
+      "name": "오케이캐피탈",
+      "corp_code": "00148434",
+      "stock_code": "",
+      "matched_name": "오케이캐피탈"
+    },
+    {
+      "name": "제이비우리캐피탈",
+      "corp_code": "00234971",
+      "stock_code": "",
+      "matched_name": "제이비우리캐피탈"
+    },
+    {
+      "name": "한국캐피탈",
+      "corp_code": "00149594",
+      "stock_code": "023760",
+      "matched_name": "한국캐피탈"
+    },
+    {
+      "name": "애큐온캐피탈",
+      "corp_code": "00595012",
+      "stock_code": "",
+      "matched_name": "애큐온캐피탈"
+    },
+    {
+      "name": "오릭스캐피탈코리아",
+      "corp_code": "00502410",
+      "stock_code": "",
+      "matched_name": "오릭스캐피탈코리아"
+    },
+    {
+      "name": "산은캐피탈",
+      "corp_code": "00260356",
+      "stock_code": "008270",
+      "matched_name": "산은캐피탈"
+    },
+    {
+      "name": "엔에이치농협캐피탈",
+      "corp_code": "00673523",
+      "stock_code": "",
+      "matched_name": "엔에이치농협캐피탈"
+    },
+    {
+      "name": "키움캐피탈",
+      "corp_code": "01339389",
+      "stock_code": "",
+      "matched_name": "키움캐피탈"
+    }
   ]
 }
