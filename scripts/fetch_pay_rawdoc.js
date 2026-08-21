@@ -1,7 +1,9 @@
 // Fetches individual-compensation data by downloading and parsing the RAW
 // disclosure document (document.xml) instead of OpenDART's structured
 // summary API, which lags behind the raw filing by days to weeks.
-// Usage: node fetch_pay_rawdoc.js <API_KEY> <bsns_year> <reprt_code> <period_label> <report_name_fragment> <fiscal_end e.g. 2026.06>
+// Usage: node fetch_pay_rawdoc.js <API_KEY> <bsns_year> <reprt_code> <period_label> <report_name_fragment> <fiscal_end e.g. 2026.06> [sector]
+// If [sector] is given, only that sector's companies are (re-)fetched and
+// merged into the existing period entry instead of replacing it wholesale.
 const fs = require("fs");
 const path = require("path");
 const os = require("os");
@@ -11,10 +13,10 @@ const { parseDocument } = require("./parse_raw_doc");
 const DATA_DIR = path.join(__dirname, "..", "data");
 const SITE_DIR = path.join(__dirname, "..", "site");
 
-const [, , KEY, BSNS_YEAR, REPRT_CODE, PERIOD_LABEL, REPORT_FRAGMENT, FISCAL_END] = process.argv;
+const [, , KEY, BSNS_YEAR, REPRT_CODE, PERIOD_LABEL, REPORT_FRAGMENT, FISCAL_END, SECTOR] = process.argv;
 if (!KEY || !BSNS_YEAR || !REPRT_CODE || !PERIOD_LABEL || !REPORT_FRAGMENT || !FISCAL_END) {
   console.error(
-    "Usage: node fetch_pay_rawdoc.js <API_KEY> <bsns_year> <reprt_code> <period_label> <report_name_fragment> <fiscal_end e.g. 2026.06>"
+    "Usage: node fetch_pay_rawdoc.js <API_KEY> <bsns_year> <reprt_code> <period_label> <report_name_fragment> <fiscal_end e.g. 2026.06> [sector]"
   );
   process.exit(1);
 }
@@ -22,6 +24,7 @@ if (!KEY || !BSNS_YEAR || !REPRT_CODE || !PERIOD_LABEL || !REPORT_FRAGMENT || !F
 const corpCodes = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "corp_codes.json"), "utf-8"));
 const companies = [];
 for (const [sector, list] of Object.entries(corpCodes)) {
+  if (SECTOR && sector !== SECTOR) continue;
   for (const c of list) companies.push({ ...c, sector });
 }
 
@@ -116,9 +119,14 @@ async function main() {
 
   const existing = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "all_periods.json"), "utf-8"));
   const idx = existing.findIndex((p) => p.key === key);
-  const periodEntry = { key, label: PERIOD_LABEL, bsns_year: BSNS_YEAR, reprt_code: REPRT_CODE, records };
-  if (idx === -1) existing.push(periodEntry);
-  else existing[idx] = periodEntry;
+  if (idx === -1) {
+    existing.push({ key, label: PERIOD_LABEL, bsns_year: BSNS_YEAR, reprt_code: REPRT_CODE, records });
+  } else if (SECTOR) {
+    // merge: keep every other sector's already-fetched records, replace only this one
+    existing[idx].records = existing[idx].records.filter((r) => r.sector !== SECTOR).concat(records);
+  } else {
+    existing[idx] = { key, label: PERIOD_LABEL, bsns_year: BSNS_YEAR, reprt_code: REPRT_CODE, records };
+  }
 
   fs.writeFileSync(path.join(DATA_DIR, "all_periods.json"), JSON.stringify(existing, null, 2), "utf-8");
   fs.mkdirSync(SITE_DIR, { recursive: true });

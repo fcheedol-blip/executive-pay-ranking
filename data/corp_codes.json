@@ -456,5 +456,67 @@
       "stock_code": "",
       "matched_name": "키움캐피탈"
     }
+  ],
+  "금융지주": [
+    {
+      "name": "KB금융지주",
+      "corp_code": "00688996",
+      "stock_code": "105560",
+      "matched_name": "KB금융"
+    },
+    {
+      "name": "신한지주",
+      "corp_code": "00382199",
+      "stock_code": "055550",
+      "matched_name": "신한지주"
+    },
+    {
+      "name": "하나금융지주",
+      "corp_code": "00547583",
+      "stock_code": "086790",
+      "matched_name": "하나금융지주"
+    },
+    {
+      "name": "우리금융지주",
+      "corp_code": "01350869",
+      "stock_code": "316140",
+      "matched_name": "우리금융지주"
+    },
+    {
+      "name": "NH농협금융지주",
+      "corp_code": "00908021",
+      "stock_code": "",
+      "matched_name": "농협금융지주"
+    },
+    {
+      "name": "메리츠금융지주",
+      "corp_code": "00860332",
+      "stock_code": "138040",
+      "matched_name": "메리츠금융지주"
+    },
+    {
+      "name": "한국금융지주",
+      "corp_code": "00432102",
+      "stock_code": "071050",
+      "matched_name": "한국금융지주"
+    },
+    {
+      "name": "iM금융지주",
+      "corp_code": "00878915",
+      "stock_code": "139130",
+      "matched_name": "iM금융지주"
+    },
+    {
+      "name": "BNK금융지주",
+      "corp_code": "00858364",
+      "stock_code": "138930",
+      "matched_name": "BNK금융지주"
+    },
+    {
+      "name": "JB금융지주",
+      "corp_code": "00980122",
+      "stock_code": "175330",
+      "matched_name": "JB금융지주"
+    }
   ]
 }

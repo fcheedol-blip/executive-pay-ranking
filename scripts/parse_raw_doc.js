@@ -80,7 +80,11 @@ function parseSection(section, maxCount = Infinity) {
     if (!Number.isFinite(payRaw) || payRaw <= 0) continue;
     const won = payRaw * wonScale;
     const amount_100m = Math.round((won / 1e8) * 10) / 10;
-    if (amount_100m <= 0 || amount_100m > 3000) continue; // sanity bound: no individual comp should exceed ~3000억
+    // sanity bound: catches unit-conversion bugs (e.g. a real 원-scale document
+    // misread as 백만원 comes out ~10,000x too large), not real large bonuses —
+    // 메리츠금융지주 disclosed a genuine 832.7억 stock-based payout in 2024, so
+    // this must stay generous.
+    if (amount_100m <= 0 || amount_100m > 10000) continue;
     rows.push({ name: b.name, position, amount_100m });
   }
   return rows;
