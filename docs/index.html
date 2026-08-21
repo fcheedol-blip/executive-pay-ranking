@@ -16,8 +16,18 @@
   </header>
 
   <main>
+    <div class="search-row">
+      <input
+        type="search"
+        id="searchInput"
+        class="search-input"
+        placeholder="이름 또는 회사명으로 검색 (예: 홍길동, 미래에셋)"
+        autocomplete="off"
+      />
+    </div>
+
     <div class="controls">
-      <label class="control">
+      <label class="control" id="periodControl">
         <span>기간</span>
         <select id="periodSelect"></select>
       </label>

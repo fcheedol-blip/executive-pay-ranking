@@ -42,6 +42,39 @@ main {
   padding: 20px;
 }
 
+.search-row {
+  margin-bottom: 14px;
+}
+
+.search-input {
+  width: 100%;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+}
+
+.search-input::placeholder {
+  color: var(--muted);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--accent-2);
+}
+
+#periodControl.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.row .meta .period-tag {
+  color: var(--accent-2);
+  font-weight: 600;
+}
+
 .controls {
   display: flex;
   flex-wrap: wrap;
